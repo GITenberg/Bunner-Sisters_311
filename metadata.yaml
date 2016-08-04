@@ -1,0 +1,37 @@
+_repo: Bunner-Sisters_311
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wharton, Edith
+    aliases:
+    - Olivieri, David
+    - Wharton, Edith Newbold Jones
+    birthdate: 1862
+    deathdate: 1937
+    gutenberg_agent_id: '104'
+    url: http://www.gutenberg.org/2009/agents/104
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Edith_Wharton
+    - http://en.wikipedia.org/wiki/Edith_Wharton
+description: The Bunner Sisters (1892) takes place in a shabby neighborhood in New
+  York City. The two Bunner sisters, Ann Eliza the elder, and Evelina the younger,
+  keep a small shop selling artificial flowers and small handsewn articles to Stuyvesant
+  Square's 'female population'. Ann Eliza gives Evelina a clock for her birthday.
+  The clock leads the sisters to become involved with Herbert Ramy, owner of 'the
+  queerest little store you ever laid eyes on'. Soon Ramy is a regular guest of the
+  Bunner sisters, who realize that their 'treadmill routine', once so comfortable,
+  is now 'intolerably monotonous'.
+gutenberg_issued: '2008-07-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '311'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'New York (N.Y.) -- Social life and customs -- 19th century -- Fiction'
+- GITenberg
+title: Bunner Sisters
+url: http://www.gutenberg.org/ebooks/311
